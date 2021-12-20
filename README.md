@@ -47,6 +47,12 @@
 
 ## Quick Guide
 
+<!-- MIT License -->
+<a href="https://github.com/JonathanTSilva/TP-IFSP/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
+
+## License
+Distributed under the **MIT License**. See [LICENSE](https://github.com/JonathanTSilva/TP-IFSP/blob/main/LICENSE) for more information.
+
 # FP-Dimfot
 Created to document the Android application developed for the discipline of Mobile Computing (E8CPM) of the Electrical Engineering course at the Federal Institute of São Paulo, campus Sertãozinho.
 
